@@ -27,7 +27,7 @@ async def start(_, message):
                             reply_markup=InlineKeyboardMarkup(
                                 [[
                                      InlineKeyboardButton(
-                                            "Source", url="https://github.com/me-piro-786/SongDL-Bot")
+                                            "Source", url="https://telegra.ph/file/fb1fc10ab20a3b76ef4fa.jpg")
                                     ]]
                             ))
    else:
