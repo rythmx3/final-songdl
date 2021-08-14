@@ -1,0 +1,9 @@
+ujson
+requests
+youtube_dl
+aiohttp
+pyrogram
+tgcrypto
+youtube_search
+asyncio
+wget
